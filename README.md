@@ -6,6 +6,10 @@
 
 Running tests for dotnet and a specific version of node together in one Travis build
 
+## Blog post
+
+
+
 ## Run tests local
 
 ```shell
@@ -18,3 +22,12 @@ npm test
 ## Tests
 
 You can play with the tests in DotNetTest.cs and node.test.js to see the build failing and succeeding on Travis.
+
+## Creating this project
+
+```shell
+dotnet new xunit
+dotnet restore
+npm init
+npm install --save-dev jest
+```
