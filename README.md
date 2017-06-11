@@ -14,3 +14,7 @@ npm install
 dotnet test
 npm test
 ```
+
+## Tests
+
+You can play with the tests in DotNetTest.cs and node.test.js to see the build failing and succeeding on Travis.

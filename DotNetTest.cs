@@ -8,7 +8,7 @@ namespace dotnetcore_node_travis
         [Fact]
         public void Test()
         {
-            Assert.Equal(false, true);
+            Assert.Equal(true, true);
         }
     }
 }
