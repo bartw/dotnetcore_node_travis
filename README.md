@@ -8,7 +8,7 @@ Running tests for dotnet and a specific version of node together in one Travis b
 
 ## Blog post
 
-
+https://medium.com/@bartwijnants/running-tests-for-net-and-node-js-on-travis-ci-8704ea3a5512
 
 ## Run tests local
 
