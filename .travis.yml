@@ -13,5 +13,5 @@ script:
   - npm test
 after_success:
   - echo dotnet test and npm test succeeded
-  after_failure:
+after_failure:
   - echo dotnet test or npm test failed
