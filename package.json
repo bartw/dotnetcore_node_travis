@@ -1,0 +1,22 @@
+{
+  "name": "dotnetcore_node_travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartw/dotnetcore_node_travis.git"
+  },
+  "author": "Bart Wijnants",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartw/dotnetcore_node_travis/issues"
+  },
+  "homepage": "https://github.com/bartw/dotnetcore_node_travis#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
